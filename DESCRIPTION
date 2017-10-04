@@ -1,6 +1,6 @@
-Package: timeconstant
+Package: bufferfactor
 Type: Package
-Title: timeconstant
+Title: bufferfactor
 Version: 0.1.0
 Date: 2017-1003
 Author: J.Arsenault
