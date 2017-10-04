@@ -1,0 +1,14 @@
+Package: timeconstant
+Type: Package
+Title: timeconstant
+Version: 0.1.0
+Date: 2017-1003
+Author: J.Arsenault
+Maintainer: Who to complain to <JARS3N@GMAIL.COM>
+  Description: bufferfactor work
+URL: https://github.com/JARS3N/timeconstant
+Imports:
+  dplyr,
+  rio
+License: none
+LazyData: TRUE
